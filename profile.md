@@ -3,6 +3,8 @@
 --하이
 **Imformation Engineering Student | Cloud Infrastructure & Security Engineer (Aspiring)** 하이하이
 
+**Imformation Engineering Student | Cloud Infrastructure & Security Engineer (Aspiring)**  가나다라마바사
+
 ---
 
 ## 🔍 About Me
