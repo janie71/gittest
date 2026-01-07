@@ -1,7 +1,7 @@
 #### 안녕하세요 이유진입니다.
 # 👋 Hi, I’m Yujin Lee
 
-**Imformation Engineering Student | Cloud Infrastructure & Security Engineer (Aspiring)**
+**Imformation Engineering Student | Cloud Infrastructure & Security Engineer (Aspiring)**  가나다라마바사
 
 ---
 
