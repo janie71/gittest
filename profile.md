@@ -6,7 +6,7 @@
 ---
 
 ## 🔍 About Me
-- 정보통신 전공으로 **클라우드, 네트워크** 기반을 학습했습니다.
+- 정보통신공학 전공으로 **클라우드, 네트워크** 기반을 학습했습니다.
 - AWS 기반 **클라우드 인프라·보안 자동화** 프로젝트 경험이 있습니다.
 - **선제적·자동화된 보안 아키텍처**에 관심이 많습니다.
 - 개념에 그치지 않고 **실제로 동작하는 시스템 구현**을 지향합니다.
@@ -68,8 +68,8 @@
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/your-id
-- Email: your-email@example.com
+- GitHub: https://github.com/janie71
+- Email: yjin4526@gmail.com
 
 ---
 
