@@ -20,7 +20,7 @@
 - **Ops**: Linux, Shell Script, Git, CI/CD (개념 및 실습)
 
 ### 💻 Backend & Programming
-- **Python**, **Java**, **Node.js**
+- **Python**, **Node.js**
 - REST API, Serverless Architecture (Lambda 기반)
 
 ### 🔐 Security
@@ -55,9 +55,8 @@
 ---
 
 ## 🎸 Leadership & Collaboration
-- 대학교 밴드 동아리 **팀장**
-- 일정 관리, 의견 충돌 조정, 무대 퍼포먼스 기획
-- 기술 프로젝트에서도 **협업·조율·완주**를 중시
+- 인하대학교 보안 동아리 SII **부회장** : 2024.07~2025.02
+- 인하대학교 밴드 동아리 팝뮤직
 
 ---
 
